@@ -18,6 +18,9 @@
   - :pencil2: [Actividad 01 ](https://github.com/YandryRo97/Simulaci-n/tree/main/Actividades%20en%20Clase/Actividad%201.%20%20Juego%20de%20la%20vida)
   - :pencil2: [Boletin 01 ](https://github.com/YandryRo97/Simulaci-n/tree/main/Boletin1)
 
-- **PRUEBAS Y EXAMENES**
+- **PRUEBAS**
   - :pencil2: [Prueba 01 ](https://github.com/YandryRo97/Simulaci-n/tree/main/Prueba1)
+
+- **Examenes**
+  - :pencil12: [Examen Interciclo] (https://github.com/YandryRo97/Simulaci-n/tree/main/Examen_Interciclo)   
 
