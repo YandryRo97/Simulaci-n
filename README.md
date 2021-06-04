@@ -22,5 +22,5 @@
   - :pencil2: [Prueba 01 ](https://github.com/YandryRo97/Simulaci-n/tree/main/Prueba1)
 
 - **Examenes**
-  - :pencil2: [Examen Interciclo] (https://github.com/YandryRo97/Simulaci-n/tree/main/Examen_Interciclo)   
+  - :pencil2: [Examen Interciclo](https://github.com/YandryRo97/Simulaci-n/tree/main/Examen_Interciclo)   
 
