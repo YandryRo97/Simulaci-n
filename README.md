@@ -12,7 +12,10 @@
   - :file_folder: [Práctica 04 Simulación Contagios R0](https://github.com/YandryRo97/Simulaci-n/tree/main/Pr%C3%A1ctica%204)
   
   - :file_folder: [Práctica 05 Gráficas y Reportes](https://github.com/YandryRo97/Simulaci-n/tree/main/Pr%C3%A1ctica%205)
-  - :file_folder: [Introducción Simpy](https://github.com/YandryRo97/Simulaci-n/tree/main/Pr%C3%A1ctica%206)
+  
+  - :file_folder: [Práctica 06 Introducción Simpy](https://github.com/YandryRo97/Simulaci-n/tree/main/Pr%C3%A1ctica%206)
+
+  - :file_folder: [Práctica 07 Simulación Vacunación](https://github.com/YandryRo97/Simulaci-n/tree/main/Pr%C3%A1ctica%206)    
 
 - **ACTIVIDADES EN CLASE**
   - :pencil2: [Actividad 01 ](https://github.com/YandryRo97/Simulaci-n/tree/main/Actividades%20en%20Clase/Actividad%201.%20%20Juego%20de%20la%20vida)
