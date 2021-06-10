@@ -1,0 +1,113 @@
+
+                                      ARENA Simulation Results
+                                               USUARIO
+
+                                  Summary for Replication 1 of 1
+
+Project: Simulacion Vacunacion Recinto Electoral                     Run execution date : 6/10/2021
+Analyst: Yandry Romero                                               Model revision date: 6/10/2021
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+PERSONA.VATime                              .42412     (Insuf)    .03182     2.1429        108    
+PERSONA.NVATime                             .00000     (Insuf)    .00000     .00000        108    
+PERSONA.WaitTime                            1.0225     (Insuf)    .00000     4.4844        108    
+PERSONA.TranTime                            .00000     (Insuf)    .00000     .00000        108    
+PERSONA.OtherTime                           .00000     (Insuf)    .00000     .00000        108    
+PERSONA.TotalTime                           1.4466     (Insuf)    .06806     5.1541        108    
+Modulo Vacunacion 3.Queue.WaitingTime       .09206     (Insuf)    .00000     .67735         42    
+Modulo Reposo 3.Queue.WaitingTime           .44605     (Insuf)    .00000     1.8707         22    
+Modulo Reposo 2.Queue.WaitingTime           .35513     (Insuf)    .00000     1.0530         37    
+Modulo Reposo 1.Queue.WaitingTime           2.4195     (Insuf)    .00000     4.3017         28    
+Modulo Vacunacion 2.Queue.WaitingTime       .02831     (Insuf)    .00000     .19001         37    
+Modulo Vacunacion 1.Queue.WaitingTime       .04517     (Insuf)    .00000     .18885         43    
+Modulo 2.Queue.WaitingTime                  .04060     (Insuf)    .00000     .26053         38    
+Modulo 1.Queue.WaitingTime                  .24432     (Insuf)    .00000     .80557        100    
+Modulo Certificado.Queue.WaitingTime        .00923     (Insuf)    .00000     .07882         84    
+Modulo Reasignación.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000         25    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+PERSONA.WIP                                 22.411     (Insuf)    .00000     41.000     35.000    
+Reposo 3.NumberBusy                         .85289     (Insuf)    .00000     1.0000     .00000    
+Reposo 3.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Reposo 3.Utilization                        .85289     (Insuf)    .00000     1.0000     .00000    
+Reposo 2.NumberBusy                         .66286     (Insuf)    .00000     1.0000     .00000    
+Reposo 2.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Reposo 2.Utilization                        .66286     (Insuf)    .00000     1.0000     .00000    
+Reposo 1.NumberBusy                         .92497     (Insuf)    .00000     1.0000     1.0000    
+Reposo 1.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Reposo 1.Utilization                        .92497     (Insuf)    .00000     1.0000     1.0000    
+Doctor 1.NumberBusy                         .81420     (Insuf)    .00000     1.0000     1.0000    
+Doctor 1.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Doctor 1.Utilization                        .81420     (Insuf)    .00000     1.0000     1.0000    
+Doctor 2.NumberBusy                         .33299     (Insuf)    .00000     1.0000     .00000    
+Doctor 2.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Doctor 2.Utilization                        .33299     (Insuf)    .00000     1.0000     .00000    
+Enfermera 1.NumberBusy                      .42878     (Insuf)    .00000     1.0000     1.0000    
+Enfermera 1.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Enfermera 1.Utilization                     .42878     (Insuf)    .00000     1.0000     1.0000    
+Enfermera 2.NumberBusy                      .33381     (Insuf)    .00000     1.0000     .00000    
+Enfermera 2.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Enfermera 2.Utilization                     .33381     (Insuf)    .00000     1.0000     .00000    
+Enfermera 3.NumberBusy                      .34192     (Insuf)    .00000     1.0000     .00000    
+Enfermera 3.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Enfermera 3.Utilization                     .34192     (Insuf)    .00000     1.0000     .00000    
+Certificado.NumberBusy                      .35223     (Insuf)    .00000     1.0000     1.0000    
+Certificado.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Certificado.Utilization                     .35223     (Insuf)    .00000     1.0000     1.0000    
+Reasignacion.NumberBusy                     .07177     (Insuf)    .00000     1.0000     .00000    
+Reasignacion.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Reasignacion.Utilization                    .07177     (Insuf)    .00000     1.0000     .00000    
+Modulo Vacunacion 3.Queue.NumberInQueue     .38666     (Insuf)    .00000     6.0000     .00000    
+Modulo Reposo 3.Queue.NumberInQueue         .98130     (Insuf)    .00000     4.0000     .00000    
+Modulo Reposo 2.Queue.NumberInQueue         1.3139     (Insuf)    .00000     7.0000     .00000    
+Modulo Reposo 1.Queue.NumberInQueue         11.360     (Insuf)    .00000     24.000     24.000    
+Modulo Vacunacion 2.Queue.NumberInQueue     .10476     (Insuf)    .00000     2.0000     .00000    
+Modulo Vacunacion 1.Queue.NumberInQueue     .19422     (Insuf)    .00000     3.0000     .00000    
+Modulo 2.Queue.NumberInQueue                .15426     (Insuf)    .00000     2.0000     .00000    
+Modulo 1.Queue.NumberInQueue                2.7108     (Insuf)    .00000     10.000     5.0000    
+Modulo Certificado.Queue.NumberInQueue      .08851     (Insuf)    .00000     3.0000     2.0000    
+Modulo Reasignación.Queue.NumberInQueue     .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+PERSONA.NumberIn                            143.00    
+PERSONA.NumberOut                           108.00    
+Reposo 3.NumberSeized                       22.000    
+Reposo 3.ScheduledUtilization               .85289    
+Reposo 2.NumberSeized                       37.000    
+Reposo 2.ScheduledUtilization               .66286    
+Reposo 1.NumberSeized                       28.000    
+Reposo 1.ScheduledUtilization               .92497    
+Doctor 1.NumberSeized                       100.00    
+Doctor 1.ScheduledUtilization               .81420    
+Doctor 2.NumberSeized                       38.000    
+Doctor 2.ScheduledUtilization               .33299    
+Enfermera 1.NumberSeized                    43.000    
+Enfermera 1.ScheduledUtilization            .42878    
+Enfermera 2.NumberSeized                    37.000    
+Enfermera 2.ScheduledUtilization            .33381    
+Enfermera 3.NumberSeized                    42.000    
+Enfermera 3.ScheduledUtilization            .34192    
+Certificado.NumberSeized                    84.000    
+Certificado.ScheduledUtilization            .35223    
+Reasignacion.NumberSeized                   25.000    
+Reasignacion.ScheduledUtilization           .07177    
+System.NumberOut                            108.00    
+
+
+Simulation run time: 0.17 minutes.
+Simulation run complete.

@@ -1,0 +1,36 @@
+[RESOURCES]
+Reposo 3
+Reposo 2
+Reposo 1
+Doctor 1
+Doctor 2
+Enfermera 1
+Enfermera 2
+Enfermera 3
+Certificado
+Reasignacion
+[VARIABLES]
+Primera Dosis?.NumberOut True
+Primera Dosis?.NumberOut False
+Modulo Vacunacion 1.NumberIn
+LLEGADA DE PERSONAS.NumberOut
+Modulo Vacunacion 1.NumberOut
+Modulo Reposo 1.NumberIn
+Modulo Reposo 3.NumberIn
+Modulo Reposo 2.NumberIn
+Modulo Reposo 1.NumberOut
+Modulo Reposo 3.NumberOut
+Modulo Reposo 2.NumberOut
+Modulo 1.NumberIn
+Modulo 2.NumberIn
+Modulo 1.NumberOut
+Modulo 2.NumberOut
+Modulo Vacunacion 2.NumberIn
+Modulo Certificado.NumberOut
+Modulo Vacunacion 3.NumberOut
+Modulo Vacunacion 2.NumberOut
+Modulo Vacunacion 3.NumberIn
+Modulo Reasignación.NumberOut
+Modulo Reasignación.NumberIn
+SALIDA.NumberOut
+Modulo Certificado.NumberIn
