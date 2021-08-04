@@ -30,3 +30,7 @@
 - **Proyecto Integrador**
   - :file_folder: [Proyecto Integrador](https://github.com/YandryRo97/Simulaci-n/tree/main/Proyecto%20Ingrador)
   - :file_folder: [Informe ](https://github.com/YandryRo97/Simulaci-n/blob/main/Proyecto%20Ingrador/ProyectoIntegradorInforme.pdf)
+
+- **Ejercicios Propuestos**
+  - :file_folder: [Ejercicio 1](https://github.com/YandryRo97/Simulaci-n/tree/main/EjercicioPropuesto1)
+
