@@ -31,7 +31,7 @@
   - :file_folder: [Proyecto Integrador](https://github.com/YandryRo97/Simulaci-n/tree/main/Proyecto%20Ingrador)
   - :file_folder: [Informe ](https://github.com/YandryRo97/Simulaci-n/blob/main/Proyecto%20Ingrador/ProyectoIntegradorInforme.pdf)
 
-  - **Proyecto Final**
+ - **Proyecto Final**
   - :file_folder: [Proyecto Final](https://github.com/YandryRo97/Simulaci-n/blob/main/Proyecto%20Final/ProyectoFinal.ipynb)
   - :file_folder: [Informe ](https://github.com/YandryRo97/Simulaci-n/blob/main/Proyecto%20Final/ProyectoFinal%20-%20Informe.pdf)
 
